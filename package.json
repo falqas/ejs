@@ -1,0 +1,24 @@
+{
+  "name": "ejs-and-server-side-rendering",
+  "version": "1.0.0",
+  "description": "Express comes with the ability to plug in a whole variety of template engines",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falqas/ejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/falqas/ejs/issues"
+  },
+  "homepage": "https://github.com/falqas/ejs#readme",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  }
+}
